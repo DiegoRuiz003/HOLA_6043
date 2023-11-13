@@ -16,5 +16,9 @@ namespace ConsoleApp1
         {
             Console.WriteLine("HASTA LUEGO ");
         }
+        public void Despide3()
+        {
+            Console.WriteLine("HASTA LUEGO ");
+        }
     }
 }

@@ -14,3 +14,4 @@ diego.Despide2();
 //DIEGO 4
 Tony tony = new Tony();
 tony.Saluda();
+diego.Despide3();

@@ -14,7 +14,8 @@ namespace ConsoleApp1
         }
         public void Saludo2()
         {
-            Console.WriteLine("HI,HELLO BRO")
+            Console.WriteLine("HI,HELLO BRO");
+
         }
     }
 }

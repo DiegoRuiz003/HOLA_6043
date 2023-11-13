@@ -10,3 +10,4 @@ Console.WriteLine("Hello, World!");
 //DIEGO 4
 Diego diego = new Diego();
 diego.Despide();
+diego.Despide2();

@@ -11,6 +11,10 @@ namespace ConsoleApp1
         public void Despide()
         {
             Console.WriteLine("CHAU ME VOY");
-        } 
+        }
+        public void Despide2()
+        {
+            Console.WriteLine("HASTA LUEGO ");
+        }
     }
 }

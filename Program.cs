@@ -11,3 +11,6 @@ Console.WriteLine("Hello, World!");
 Diego diego = new Diego();
 diego.Despide();
 diego.Despide2();
+//DIEGO 4
+Tony tony = new Tony();
+tony.Saluda();
